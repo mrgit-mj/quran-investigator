@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+Project purpose
+Quran Investigator is an exploratory toolkit for the Quran. It bundles a React-based viewer for browsing chapters, verses and word‑level details, an experimental Node.js sound generator, and local JSON data files containing Arabic verses with English translations.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Architecture
+Viewer – A React/TypeScript application that renders chapter lists, verse views, and commentary panels. It tracks selected words and fetches details and related words via hooks and shared components
 
-## Available Scripts
+Sound script – A Node program that loads text from quran.json, converts verse lengths into sine‑wave tones using the speaker library, and plays them sequentially
 
-In the project directory, you can run:
+Data – Chapter‑wise JSON files with Arabic text (verseString) and English translations (verseStringB) such as the opening chapter shown below
 
-### `npm start`
+Setup instructions
+Viewer
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+cd quran-viewer
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+npm install
 
-### `npm test`
+Define REACT_APP_API_URL for the backend service.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm start to run the development server
 
-### `npm run build`
+Sound script
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+cd sound
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+node sound.js to synthesize audio from the text dataset
 
-### `npm run eject`
+Data
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+JSON files are already stored under quran-arabic-english-json-allah; unzip quran-arabic-english-json-allah.zip if a fresh copy is required.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Data sources
+Local chapter files (quran-arabic-english-json-allah/*.json) containing verse numbers, Arabic text, and an English translation.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Consolidated sound/quran.json consumed by the sound script. No external download is required.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+API requirements
+The viewer uses Axios with a base URL defined by REACT_APP_API_URL
 
-## Learn More
+Expected REST endpoints:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+GET /quran/chapters for chapter metadata
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+GET /quran/chapters/{chapterId}/verses for verses in a chapter
+
+GET /quran/verses/{verseId}/words for word-level breakdowns
+
+POST /quran/words/related with { wordId, limit } to retrieve related words and their verses
+
+Testing
+⚠️ No tests were executed; the task was exploratory documentation only.
