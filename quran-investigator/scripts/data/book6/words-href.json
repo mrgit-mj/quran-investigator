@@ -1,0 +1,4190 @@
+{
+  "bookTitle": "Searchable Online Version \n\tAbū ʿUbayd al-Qāsim bin Salām, Gharīb al-Ḥadīth غريب الحديث لأبي عبيد القاسم بن سلام",
+  "description": "",
+  "words": [
+    {
+      "word": "آله",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a2%d9%84%d9%87/?book=6"
+    },
+    {
+      "word": "أَبَد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d8%a8%d9%8e%d8%af/?book=6"
+    },
+    {
+      "word": "أبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "أبط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "أبل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "أَتَى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d8%aa%d9%8e%d9%89/?book=6"
+    },
+    {
+      "word": "أثر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%ab%d8%b1/?book=6"
+    },
+    {
+      "word": "أثل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%ab%d9%84/?book=6"
+    },
+    {
+      "word": "أجر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%ac%d8%b1/?book=6"
+    },
+    {
+      "word": "أجم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%ac%d9%85/?book=6"
+    },
+    {
+      "word": "أجن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%ac%d9%86/?book=6"
+    },
+    {
+      "word": "أَخا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d8%ae%d8%a7/?book=6"
+    },
+    {
+      "word": "أَخذ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d8%ae%d8%b0/?book=6"
+    },
+    {
+      "word": "أدب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%af%d8%a8/?book=6"
+    },
+    {
+      "word": "أدم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%af%d9%85/?book=6"
+    },
+    {
+      "word": "أَدَم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d8%af%d9%8e%d9%85/?book=6"
+    },
+    {
+      "word": "أذن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b0%d9%86/?book=6"
+    },
+    {
+      "word": "أرب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "أرز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b1%d8%b2/?book=6"
+    },
+    {
+      "word": "أرف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "أرك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b1%d9%83/?book=6"
+    },
+    {
+      "word": "أرى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "أزز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b2%d8%b2/?book=6"
+    },
+    {
+      "word": "أزل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b2%d9%84/?book=6"
+    },
+    {
+      "word": "أزم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b2%d9%85/?book=6"
+    },
+    {
+      "word": "أسر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b3%d8%b1/?book=6"
+    },
+    {
+      "word": "أَسف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d8%b3%d9%81/?book=6"
+    },
+    {
+      "word": "أسو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b3%d9%88/?book=6"
+    },
+    {
+      "word": "أسيا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b3%d9%8a%d8%a7/?book=6"
+    },
+    {
+      "word": "أشب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b4%d8%a8/?book=6"
+    },
+    {
+      "word": "أشش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b4%d8%b4/?book=6"
+    },
+    {
+      "word": "أطر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b7%d8%b1/?book=6"
+    },
+    {
+      "word": "أطط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d8%b7%d8%b7/?book=6"
+    },
+    {
+      "word": "أفق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%81%d9%82/?book=6"
+    },
+    {
+      "word": "أكل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%83%d9%84/?book=6"
+    },
+    {
+      "word": "أَلا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d9%84%d8%a7/?book=6"
+    },
+    {
+      "word": "ألل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "أم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%85/?book=6"
+    },
+    {
+      "word": "أمة",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%85%d8%a9/?book=6"
+    },
+    {
+      "word": "أمد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%85%d8%af/?book=6"
+    },
+    {
+      "word": "أَمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "أمع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%85%d8%b9/?book=6"
+    },
+    {
+      "word": "أنف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%86%d9%81/?book=6"
+    },
+    {
+      "word": "أنن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%86%d9%86/?book=6"
+    },
+    {
+      "word": "أَنى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d9%86%d9%89/?book=6"
+    },
+    {
+      "word": "أهل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%87%d9%84/?book=6"
+    },
+    {
+      "word": "أَيْن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a3%d9%8e%d9%8a%d9%92%d9%86/?book=6"
+    },
+    {
+      "word": "إِرْث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a5%d9%90%d8%b1%d9%92%d8%ab/?book=6"
+    },
+    {
+      "word": "إلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a5%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "إيل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a5%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "اجْرِ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a7%d8%ac%d9%92%d8%b1%d9%90/?book=6"
+    },
+    {
+      "word": "الطوف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a7%d9%84%d8%b7%d9%88%d9%81/?book=6"
+    },
+    {
+      "word": "المركن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a7%d9%84%d9%85%d8%b1%d9%83%d9%86/?book=6"
+    },
+    {
+      "word": "بأر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%a3%d8%b1/?book=6"
+    },
+    {
+      "word": "بتت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%aa%d8%aa/?book=6"
+    },
+    {
+      "word": "بتل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%aa%d9%84/?book=6"
+    },
+    {
+      "word": "بثن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%ab%d9%86/?book=6"
+    },
+    {
+      "word": "بحح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%ad%d8%ad/?book=6"
+    },
+    {
+      "word": "بخع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%ae%d8%b9/?book=6"
+    },
+    {
+      "word": "بخق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%ae%d9%82/?book=6"
+    },
+    {
+      "word": "بَدَأَ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%8e%d8%af%d9%8e%d8%a3%d9%8e/?book=6"
+    },
+    {
+      "word": "بدد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "بدع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%af%d8%b9/?book=6"
+    },
+    {
+      "word": "بدن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "بذج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b0%d8%ac/?book=6"
+    },
+    {
+      "word": "بذذ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b0%d8%b0/?book=6"
+    },
+    {
+      "word": "بذعر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b0%d8%b9%d8%b1/?book=6"
+    },
+    {
+      "word": "برر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "بزل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b2%d9%84/?book=6"
+    },
+    {
+      "word": "بسر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b3%d8%b1/?book=6"
+    },
+    {
+      "word": "بسس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b3%d8%b3/?book=6"
+    },
+    {
+      "word": "بسق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b3%d9%82/?book=6"
+    },
+    {
+      "word": "بصر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b5%d8%b1/?book=6"
+    },
+    {
+      "word": "بضض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b6%d8%b6/?book=6"
+    },
+    {
+      "word": "بضع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b6%d8%b9/?book=6"
+    },
+    {
+      "word": "بظر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b8%d8%b1/?book=6"
+    },
+    {
+      "word": "بعثر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b9%d8%ab%d8%b1/?book=6"
+    },
+    {
+      "word": "بعق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b9%d9%82/?book=6"
+    },
+    {
+      "word": "بعل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%b9%d9%84/?book=6"
+    },
+    {
+      "word": "بغا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d8%ba%d8%a7/?book=6"
+    },
+    {
+      "word": "بقر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%82%d8%b1/?book=6"
+    },
+    {
+      "word": "بقع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%82%d8%b9/?book=6"
+    },
+    {
+      "word": "بقى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%82%d9%89/?book=6"
+    },
+    {
+      "word": "بكأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%83%d8%a3/?book=6"
+    },
+    {
+      "word": "بَلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%8e%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "بله",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%84%d9%87/?book=6"
+    },
+    {
+      "word": "بنى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%86%d9%89/?book=6"
+    },
+    {
+      "word": "بني",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%86%d9%8a-2/?book=6"
+    },
+    {
+      "word": "بهَا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%87%d9%8e%d8%a7/?book=6"
+    },
+    {
+      "word": "بهر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "بهش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%87%d8%b4/?book=6"
+    },
+    {
+      "word": "بهل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%87%d9%84/?book=6"
+    },
+    {
+      "word": "بهم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%87%d9%85/?book=6"
+    },
+    {
+      "word": "بوأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%88%d8%a3/?book=6"
+    },
+    {
+      "word": "بوق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%88%d9%82/?book=6"
+    },
+    {
+      "word": "بوك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%88%d9%83/?book=6"
+    },
+    {
+      "word": "بيد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%8a%d8%af/?book=6"
+    },
+    {
+      "word": "بيع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%8a%d8%b9/?book=6"
+    },
+    {
+      "word": "بيغ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%8a%d8%ba/?book=6"
+    },
+    {
+      "word": "بين",
+      "href": "http://arabiclexicon.hawramani.com/%d8%a8%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "تبع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d8%a8%d8%b9/?book=6"
+    },
+    {
+      "word": "تبن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d8%a8%d9%86/?book=6"
+    },
+    {
+      "word": "تخم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d8%ae%d9%85/?book=6"
+    },
+    {
+      "word": "ترع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d8%b1%d8%b9/?book=6"
+    },
+    {
+      "word": "ترى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "تفل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%81%d9%84/?book=6"
+    },
+    {
+      "word": "تفه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%81%d9%87/?book=6"
+    },
+    {
+      "word": "تَلد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%8e%d9%84%d8%af/?book=6"
+    },
+    {
+      "word": "تلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "تمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "تنم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%86%d9%85/?book=6"
+    },
+    {
+      "word": "تول",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%88%d9%84/?book=6"
+    },
+    {
+      "word": "تيع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%aa%d9%8a%d8%b9/?book=6"
+    },
+    {
+      "word": "ثأد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%a3%d8%af/?book=6"
+    },
+    {
+      "word": "ثبج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%a8%d8%ac/?book=6"
+    },
+    {
+      "word": "ثجج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%ac%d8%ac/?book=6"
+    },
+    {
+      "word": "ثدن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "ثرد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%b1%d8%af/?book=6"
+    },
+    {
+      "word": "ثعر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%b9%d8%b1/?book=6"
+    },
+    {
+      "word": "ثعع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%b9%d8%b9/?book=6"
+    },
+    {
+      "word": "ثعلب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%b9%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "ثغم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d8%ba%d9%85/?book=6"
+    },
+    {
+      "word": "ثفأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%81%d8%a3/?book=6"
+    },
+    {
+      "word": "ثفل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%81%d9%84/?book=6"
+    },
+    {
+      "word": "ثفن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%81%d9%86/?book=6"
+    },
+    {
+      "word": "ثكن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%83%d9%86/?book=6"
+    },
+    {
+      "word": "ثلغ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%84%d8%ba/?book=6"
+    },
+    {
+      "word": "ثمد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%85%d8%af/?book=6"
+    },
+    {
+      "word": "ثمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "ثنى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%86%d9%89/?book=6"
+    },
+    {
+      "word": "ثوا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%88%d8%a7/?book=6"
+    },
+    {
+      "word": "ثور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "ثَوْر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ab%d9%8e%d9%88%d9%92%d8%b1/?book=6"
+    },
+    {
+      "word": "جأث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%a3%d8%ab/?book=6"
+    },
+    {
+      "word": "جبجب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%a8%d8%ac%d8%a8/?book=6"
+    },
+    {
+      "word": "جبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "جبه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%a8%d9%87/?book=6"
+    },
+    {
+      "word": "جبى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%a8%d9%89-2/?book=6"
+    },
+    {
+      "word": "جثا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%ab%d8%a7/?book=6"
+    },
+    {
+      "word": "جثم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%ab%d9%85/?book=6"
+    },
+    {
+      "word": "جح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%ad/?book=6"
+    },
+    {
+      "word": "جحش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%ad%d8%b4/?book=6"
+    },
+    {
+      "word": "جخف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%ae%d9%81/?book=6"
+    },
+    {
+      "word": "جدح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%af%d8%ad/?book=6"
+    },
+    {
+      "word": "جدد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "جدف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%af%d9%81/?book=6"
+    },
+    {
+      "word": "جذا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b0%d8%a7/?book=6"
+    },
+    {
+      "word": "جذر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b0%d8%b1/?book=6"
+    },
+    {
+      "word": "جذل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b0%d9%84/?book=6"
+    },
+    {
+      "word": "جذم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b0%d9%85/?book=6"
+    },
+    {
+      "word": "جذى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b0%d9%89/?book=6"
+    },
+    {
+      "word": "جرجر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b1%d8%ac%d8%b1/?book=6"
+    },
+    {
+      "word": "جرح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b1%d8%ad/?book=6"
+    },
+    {
+      "word": "جرد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b1%d8%af/?book=6"
+    },
+    {
+      "word": "جرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "جرن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b1%d9%86/?book=6"
+    },
+    {
+      "word": "جزر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b2%d8%b1/?book=6"
+    },
+    {
+      "word": "جزع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b2%d8%b9/?book=6"
+    },
+    {
+      "word": "جزى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b2%d9%89/?book=6"
+    },
+    {
+      "word": "جشر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b4%d8%b1/?book=6"
+    },
+    {
+      "word": "جعجع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d8%b9%d8%ac%d8%b9/?book=6"
+    },
+    {
+      "word": "جفأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%81%d8%a3/?book=6"
+    },
+    {
+      "word": "جفر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "جفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "جفل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%81%d9%84/?book=6"
+    },
+    {
+      "word": "جلا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%84%d8%a7/?book=6"
+    },
+    {
+      "word": "جلب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "جلة",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%84%d8%a9/?book=6"
+    },
+    {
+      "word": "جمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "جمع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%85%d8%b9/?book=6"
+    },
+    {
+      "word": "جمل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%85%d9%84/?book=6"
+    },
+    {
+      "word": "جمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "جمهر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%85%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "جنف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%86%d9%81/?book=6"
+    },
+    {
+      "word": "جهش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%87%d8%b4/?book=6"
+    },
+    {
+      "word": "جوأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%88%d8%a3/?book=6"
+    },
+    {
+      "word": "جوح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%88%d8%ad/?book=6"
+    },
+    {
+      "word": "جور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "جوز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%88%d8%b2/?book=6"
+    },
+    {
+      "word": "جوع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%88%d8%b9/?book=6"
+    },
+    {
+      "word": "جوف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%88%d9%81/?book=6"
+    },
+    {
+      "word": "جيض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ac%d9%8a%d8%b6/?book=6"
+    },
+    {
+      "word": "حا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%a7/?book=6"
+    },
+    {
+      "word": "حبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "حبط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "حَبط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8e%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "حبك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%a8%d9%83/?book=6"
+    },
+    {
+      "word": "حَبل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8e%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "حتت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%aa%d8%aa/?book=6"
+    },
+    {
+      "word": "حتف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%aa%d9%81/?book=6"
+    },
+    {
+      "word": "حجر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%ac%d8%b1/?book=6"
+    },
+    {
+      "word": "حجز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%ac%d8%b2/?book=6"
+    },
+    {
+      "word": "حجل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%ac%d9%84/?book=6"
+    },
+    {
+      "word": "حجن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%ac%d9%86/?book=6"
+    },
+    {
+      "word": "حدج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%af%d8%ac/?book=6"
+    },
+    {
+      "word": "حدد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "حدق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%af%d9%82/?book=6"
+    },
+    {
+      "word": "حذا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b0%d8%a7/?book=6"
+    },
+    {
+      "word": "حذف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b0%d9%81/?book=6"
+    },
+    {
+      "word": "حذق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b0%d9%82/?book=6"
+    },
+    {
+      "word": "حَرْب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8e%d8%b1%d9%92%d8%a8/?book=6"
+    },
+    {
+      "word": "حرث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b1%d8%ab/?book=6"
+    },
+    {
+      "word": "حرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "حرز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b1%d8%b2/?book=6"
+    },
+    {
+      "word": "حرس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b1%d8%b3/?book=6"
+    },
+    {
+      "word": "حُرِس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8f%d8%b1%d9%90%d8%b3/?book=6"
+    },
+    {
+      "word": "حرش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b1%d8%b4/?book=6"
+    },
+    {
+      "word": "حرف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "حزر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b2%d8%b1/?book=6"
+    },
+    {
+      "word": "حسم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b3%d9%85/?book=6"
+    },
+    {
+      "word": "حشش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b4%d8%b4/?book=6"
+    },
+    {
+      "word": "حصب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b5%d8%a8/?book=6"
+    },
+    {
+      "word": "حصد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b5%d8%af/?book=6"
+    },
+    {
+      "word": "حصص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b5%d8%b5/?book=6"
+    },
+    {
+      "word": "حضج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b6%d8%ac/?book=6"
+    },
+    {
+      "word": "حضن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d8%b6%d9%86/?book=6"
+    },
+    {
+      "word": "حفأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%81%d8%a3/?book=6"
+    },
+    {
+      "word": "حفد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%81%d8%af/?book=6"
+    },
+    {
+      "word": "حفش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%81%d8%b4/?book=6"
+    },
+    {
+      "word": "حقف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%82%d9%81/?book=6"
+    },
+    {
+      "word": "حقق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%82%d9%82/?book=6"
+    },
+    {
+      "word": "حقل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%82%d9%84/?book=6"
+    },
+    {
+      "word": "حقو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%82%d9%88/?book=6"
+    },
+    {
+      "word": "حكك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%83%d9%83/?book=6"
+    },
+    {
+      "word": "حكم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%83%d9%85/?book=6"
+    },
+    {
+      "word": "حلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "حلن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%84%d9%86/?book=6"
+    },
+    {
+      "word": "حلو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%84%d9%88/?book=6"
+    },
+    {
+      "word": "حمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "حمز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%85%d8%b2/?book=6"
+    },
+    {
+      "word": "حمل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%85%d9%84/?book=6"
+    },
+    {
+      "word": "حمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "حنتم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%86%d8%aa%d9%85/?book=6"
+    },
+    {
+      "word": "حنظب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%86%d8%b8%d8%a8/?book=6"
+    },
+    {
+      "word": "حنك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%86%d9%83/?book=6"
+    },
+    {
+      "word": "حنن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%86%d9%86/?book=6"
+    },
+    {
+      "word": "حوب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%88%d8%a8/?book=6"
+    },
+    {
+      "word": "حور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "حوز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%88%d8%b2/?book=6"
+    },
+    {
+      "word": "حوس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%88%d8%b3/?book=6"
+    },
+    {
+      "word": "حوش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%88%d8%b4/?book=6"
+    },
+    {
+      "word": "حول",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%88%d9%84/?book=6"
+    },
+    {
+      "word": "حَيا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8e%d9%8a%d8%a7/?book=6"
+    },
+    {
+      "word": "حيص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8a%d8%b5/?book=6"
+    },
+    {
+      "word": "حَيْصَ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%8e%d9%8a%d9%92%d8%b5%d9%8e/?book=6"
+    },
+    {
+      "word": "حِين",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ad%d9%90%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "خبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "خبز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%a8%d8%b2/?book=6"
+    },
+    {
+      "word": "خبط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "خدج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%af%d8%ac/?book=6"
+    },
+    {
+      "word": "خدش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%af%d8%b4/?book=6"
+    },
+    {
+      "word": "خرب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "خرج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d8%ac/?book=6"
+    },
+    {
+      "word": "خرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "خرط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d8%b7/?book=6"
+    },
+    {
+      "word": "خرع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d8%b9/?book=6"
+    },
+    {
+      "word": "خرف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "خرفج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b1%d9%81%d8%ac/?book=6"
+    },
+    {
+      "word": "خزم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b2%d9%85/?book=6"
+    },
+    {
+      "word": "خشب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b4%d8%a8/?book=6"
+    },
+    {
+      "word": "خشش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b4%d8%b4/?book=6"
+    },
+    {
+      "word": "خشف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b4%d9%81/?book=6"
+    },
+    {
+      "word": "خصا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b5%d8%a7/?book=6"
+    },
+    {
+      "word": "خصر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b5%d8%b1/?book=6"
+    },
+    {
+      "word": "خصف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b5%d9%81/?book=6"
+    },
+    {
+      "word": "خصل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b5%d9%84/?book=6"
+    },
+    {
+      "word": "خضب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b6%d8%a8/?book=6"
+    },
+    {
+      "word": "خضر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b6%d8%b1/?book=6"
+    },
+    {
+      "word": "خضرم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b6%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "خضم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b6%d9%85/?book=6"
+    },
+    {
+      "word": "خطط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d8%b7%d8%b7/?book=6"
+    },
+    {
+      "word": "خفا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%81%d8%a7/?book=6"
+    },
+    {
+      "word": "خفت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%81%d8%aa/?book=6"
+    },
+    {
+      "word": "خفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "خفق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%81%d9%82/?book=6"
+    },
+    {
+      "word": "خقق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%82%d9%82/?book=6"
+    },
+    {
+      "word": "خلب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "خلط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d8%b7/?book=6"
+    },
+    {
+      "word": "خلع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d8%b9/?book=6"
+    },
+    {
+      "word": "خلف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d9%81/?book=6"
+    },
+    {
+      "word": "خلق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d9%82/?book=6"
+    },
+    {
+      "word": "خلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "خلى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%84%d9%89/?book=6"
+    },
+    {
+      "word": "ْخمْرَ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%92%d8%ae%d9%85%d9%92%d8%b1%d9%8e/?book=6"
+    },
+    {
+      "word": "خمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "خمس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%85%d8%b3/?book=6"
+    },
+    {
+      "word": "خَمش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%8e%d9%85%d8%b4/?book=6"
+    },
+    {
+      "word": "خمص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%85%d8%b5/?book=6"
+    },
+    {
+      "word": "خمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "خنث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%86%d8%ab/?book=6"
+    },
+    {
+      "word": "خنز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%86%d8%b2/?book=6"
+    },
+    {
+      "word": "خنس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%86%d8%b3/?book=6"
+    },
+    {
+      "word": "خنف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%86%d9%81/?book=6"
+    },
+    {
+      "word": "خول",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%88%d9%84/?book=6"
+    },
+    {
+      "word": "خوم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%88%d9%85/?book=6"
+    },
+    {
+      "word": "خون",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%88%d9%86/?book=6"
+    },
+    {
+      "word": "خير",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%8a%d8%b1/?book=6"
+    },
+    {
+      "word": "خيل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ae%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "دبب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%a8%d8%a8/?book=6"
+    },
+    {
+      "word": "دبح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%a8%d8%ad/?book=6"
+    },
+    {
+      "word": "دثر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%ab%d8%b1/?book=6"
+    },
+    {
+      "word": "دجج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%ac%d8%ac/?book=6"
+    },
+    {
+      "word": "دحح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%ad%d8%ad/?book=6"
+    },
+    {
+      "word": "دحض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%ad%d8%b6/?book=6"
+    },
+    {
+      "word": "دَد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%8e%d8%af/?book=6"
+    },
+    {
+      "word": "دَرْء",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%8e%d8%b1%d9%92%d8%a1/?book=6"
+    },
+    {
+      "word": "دُرَر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%8f%d8%b1%d9%8e%d8%b1/?book=6"
+    },
+    {
+      "word": "دسم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%b3%d9%85/?book=6"
+    },
+    {
+      "word": "دَعَا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%8e%d8%b9%d9%8e%d8%a7/?book=6"
+    },
+    {
+      "word": "دعب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%b9%d8%a8/?book=6"
+    },
+    {
+      "word": "دغر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d8%ba%d8%b1/?book=6"
+    },
+    {
+      "word": "دفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "دُفن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%8f%d9%81%d9%86/?book=6"
+    },
+    {
+      "word": "دقع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%82%d8%b9/?book=6"
+    },
+    {
+      "word": "دلق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%84%d9%82/?book=6"
+    },
+    {
+      "word": "دلك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%84%d9%83/?book=6"
+    },
+    {
+      "word": "دمث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%85%d8%ab/?book=6"
+    },
+    {
+      "word": "دمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "دمل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%85%d9%84/?book=6"
+    },
+    {
+      "word": "دمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "دمن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%85%d9%86/?book=6"
+    },
+    {
+      "word": "دمى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%85%d9%89/?book=6"
+    },
+    {
+      "word": "دندن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%86%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "دهر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "دهم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%87%d9%85/?book=6"
+    },
+    {
+      "word": "دوح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%88%d8%ad/?book=6"
+    },
+    {
+      "word": "دور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "دوس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%88%d8%b3/?book=6"
+    },
+    {
+      "word": "دوم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%88%d9%85/?book=6"
+    },
+    {
+      "word": "دين",
+      "href": "http://arabiclexicon.hawramani.com/%d8%af%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "ذأر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d8%a3%d8%b1/?book=6"
+    },
+    {
+      "word": "ذبح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d8%a8%d8%ad/?book=6"
+    },
+    {
+      "word": "ذَرأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%8e%d8%b1%d8%a3/?book=6"
+    },
+    {
+      "word": "ذرا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d8%b1%d8%a7/?book=6"
+    },
+    {
+      "word": "ذفر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "ذكر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%83%d8%b1/?book=6"
+    },
+    {
+      "word": "ذلف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%84%d9%81/?book=6"
+    },
+    {
+      "word": "ذمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "ذمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "ذهب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%87%d8%a8/?book=6"
+    },
+    {
+      "word": "ذوى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b0%d9%88%d9%89/?book=6"
+    },
+    {
+      "word": "رأى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%a3%d9%89/?book=6"
+    },
+    {
+      "word": "رَبًّا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%8e%d8%a8%d9%91%d9%8b%d8%a7/?book=6"
+    },
+    {
+      "word": "ربب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%a8%d8%a8/?book=6"
+    },
+    {
+      "word": "ربد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%a8%d8%af/?book=6"
+    },
+    {
+      "word": "رْبَعَ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%92%d8%a8%d9%8e%d8%b9%d9%8e/?book=6"
+    },
+    {
+      "word": "ربع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%a8%d8%b9/?book=6"
+    },
+    {
+      "word": "ربق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%a8%d9%82/?book=6"
+    },
+    {
+      "word": "رتا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%aa%d8%a7/?book=6"
+    },
+    {
+      "word": "رتج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%aa%d8%ac/?book=6"
+    },
+    {
+      "word": "رتك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%aa%d9%83/?book=6"
+    },
+    {
+      "word": "رتو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%aa%d9%88/?book=6"
+    },
+    {
+      "word": "رثث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ab%d8%ab/?book=6"
+    },
+    {
+      "word": "رثع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ab%d8%b9/?book=6"
+    },
+    {
+      "word": "رجس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ac%d8%b3/?book=6"
+    },
+    {
+      "word": "رَجَعَ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%8e%d8%ac%d9%8e%d8%b9%d9%8e/?book=6"
+    },
+    {
+      "word": "رجل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ac%d9%84/?book=6"
+    },
+    {
+      "word": "رجم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ac%d9%85/?book=6"
+    },
+    {
+      "word": "رجن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ac%d9%86/?book=6"
+    },
+    {
+      "word": "رَحل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%8e%d8%ad%d9%84/?book=6"
+    },
+    {
+      "word": "ردد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "ردم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%af%d9%85/?book=6"
+    },
+    {
+      "word": "رزز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b2%d8%b2/?book=6"
+    },
+    {
+      "word": "رزغ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b2%d8%ba/?book=6"
+    },
+    {
+      "word": "رسس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b3%d8%b3/?book=6"
+    },
+    {
+      "word": "رسع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b3%d8%b9/?book=6"
+    },
+    {
+      "word": "رشق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b4%d9%82/?book=6"
+    },
+    {
+      "word": "رصد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b5%d8%af/?book=6"
+    },
+    {
+      "word": "رضع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b6%d8%b9/?book=6"
+    },
+    {
+      "word": "رضف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b6%d9%81/?book=6"
+    },
+    {
+      "word": "رعث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b9%d8%ab/?book=6"
+    },
+    {
+      "word": "رعم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b9%d9%85/?book=6"
+    },
+    {
+      "word": "رعى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%b9%d9%89/?book=6"
+    },
+    {
+      "word": "رغس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ba%d8%b3/?book=6"
+    },
+    {
+      "word": "رغم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d8%ba%d9%85/?book=6"
+    },
+    {
+      "word": "رفأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d8%a3/?book=6"
+    },
+    {
+      "word": "رفد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d8%af/?book=6"
+    },
+    {
+      "word": "رفض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d8%b6/?book=6"
+    },
+    {
+      "word": "رفع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d8%b9/?book=6"
+    },
+    {
+      "word": "رفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "رفق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d9%82/?book=6"
+    },
+    {
+      "word": "رفه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%81%d9%87/?book=6"
+    },
+    {
+      "word": "رقب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%82%d8%a8/?book=6"
+    },
+    {
+      "word": "رقرق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%82%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "رقع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%82%d8%b9/?book=6"
+    },
+    {
+      "word": "رقق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%82%d9%82/?book=6"
+    },
+    {
+      "word": "ركب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%83%d8%a8/?book=6"
+    },
+    {
+      "word": "ركز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%83%d8%b2/?book=6"
+    },
+    {
+      "word": "ركس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%83%d8%b3/?book=6"
+    },
+    {
+      "word": "رمث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%85%d8%ab/?book=6"
+    },
+    {
+      "word": "رمد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%85%d8%af/?book=6"
+    },
+    {
+      "word": "رمس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%85%d8%b3/?book=6"
+    },
+    {
+      "word": "رمص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%85%d8%b5/?book=6"
+    },
+    {
+      "word": "رمى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%85%d9%89/?book=6"
+    },
+    {
+      "word": "رها",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%87%d8%a7/?book=6"
+    },
+    {
+      "word": "رهق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%87%d9%82/?book=6"
+    },
+    {
+      "word": "روث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%88%d8%ab/?book=6"
+    },
+    {
+      "word": "روح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%88%d8%ad/?book=6"
+    },
+    {
+      "word": "ريع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%8a%d8%b9/?book=6"
+    },
+    {
+      "word": "رين",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b1%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "زبد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%a8%d8%af/?book=6"
+    },
+    {
+      "word": "زبع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%a8%d8%b9/?book=6"
+    },
+    {
+      "word": "زبى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%a8%d9%89/?book=6"
+    },
+    {
+      "word": "زخخ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%ae%d8%ae/?book=6"
+    },
+    {
+      "word": "زرم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "زرمق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%b1%d9%85%d9%82/?book=6"
+    },
+    {
+      "word": "زعب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d8%b9%d8%a8/?book=6"
+    },
+    {
+      "word": "زلحف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%84%d8%ad%d9%81/?book=6"
+    },
+    {
+      "word": "زلع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%84%d8%b9/?book=6"
+    },
+    {
+      "word": "زلف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%84%d9%81/?book=6"
+    },
+    {
+      "word": "زلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "زمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "زمل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%85%d9%84/?book=6"
+    },
+    {
+      "word": "زنأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%86%d8%a3/?book=6"
+    },
+    {
+      "word": "زها",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%87%d8%a7/?book=6"
+    },
+    {
+      "word": "زهد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%87%d8%af/?book=6"
+    },
+    {
+      "word": "زَهْدَم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%8e%d9%87%d9%92%d8%af%d9%8e%d9%85-2/?book=6"
+    },
+    {
+      "word": "زهر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "زور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "زوى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%88%d9%89/?book=6"
+    },
+    {
+      "word": "زيد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b2%d9%8a%d8%af/?book=6"
+    },
+    {
+      "word": "سَأَلَ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%8e%d8%a3%d9%8e%d9%84%d9%8e/?book=6"
+    },
+    {
+      "word": "سبت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d8%aa/?book=6"
+    },
+    {
+      "word": "سبح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d8%ad/?book=6"
+    },
+    {
+      "word": "سبخ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d8%ae/?book=6"
+    },
+    {
+      "word": "سبد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d8%af/?book=6"
+    },
+    {
+      "word": "سبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "سبطر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d8%b7%d8%b1/?book=6"
+    },
+    {
+      "word": "سبق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%a8%d9%82/?book=6"
+    },
+    {
+      "word": "ستق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%aa%d9%82/?book=6"
+    },
+    {
+      "word": "سجل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%ac%d9%84/?book=6"
+    },
+    {
+      "word": "سحر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%ad%d8%b1/?book=6"
+    },
+    {
+      "word": "سحق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%ad%d9%82/?book=6"
+    },
+    {
+      "word": "سخر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%ae%d8%b1/?book=6"
+    },
+    {
+      "word": "سخن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%ae%d9%86/?book=6"
+    },
+    {
+      "word": "سدد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "سدن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "سرا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b1%d8%a7/?book=6"
+    },
+    {
+      "word": "سرح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b1%d8%ad/?book=6"
+    },
+    {
+      "word": "سرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "سرف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "سرق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "سرو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b1%d9%88/?book=6"
+    },
+    {
+      "word": "سَطَا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%8e%d8%b7%d9%8e%d8%a7/?book=6"
+    },
+    {
+      "word": "سطح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b7%d8%ad/?book=6"
+    },
+    {
+      "word": "سعع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b9%d8%b9/?book=6"
+    },
+    {
+      "word": "سعى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%b9%d9%89/?book=6"
+    },
+    {
+      "word": "سغسغ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d8%ba%d8%b3%d8%ba/?book=6"
+    },
+    {
+      "word": "سفع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%81%d8%b9/?book=6"
+    },
+    {
+      "word": "سفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "سفه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%81%d9%87/?book=6"
+    },
+    {
+      "word": "سقط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%82%d8%b7/?book=6"
+    },
+    {
+      "word": "سقف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%82%d9%81/?book=6"
+    },
+    {
+      "word": "سِكَك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%90%d9%83%d9%8e%d9%83/?book=6"
+    },
+    {
+      "word": "سكن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%83%d9%86/?book=6"
+    },
+    {
+      "word": "سلب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "سلف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%84%d9%81/?book=6"
+    },
+    {
+      "word": "سلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "سلم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%84%d9%85/?book=6"
+    },
+    {
+      "word": "سمت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%85%d8%aa/?book=6"
+    },
+    {
+      "word": "سمد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%85%d8%af/?book=6"
+    },
+    {
+      "word": "سمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "سمع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%85%d8%b9/?book=6"
+    },
+    {
+      "word": "سمل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%85%d9%84/?book=6"
+    },
+    {
+      "word": "سمن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%85%d9%86/?book=6"
+    },
+    {
+      "word": "سهم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%87%d9%85/?book=6"
+    },
+    {
+      "word": "سهه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%87%d9%87/?book=6"
+    },
+    {
+      "word": "سهو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%87%d9%88/?book=6"
+    },
+    {
+      "word": "سوء",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%88%d8%a1/?book=6"
+    },
+    {
+      "word": "سوأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%88%d8%a3/?book=6"
+    },
+    {
+      "word": "سود",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%88%d8%af/?book=6"
+    },
+    {
+      "word": "سى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%89/?book=6"
+    },
+    {
+      "word": "سيب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b3%d9%8a%d8%a8/?book=6"
+    },
+    {
+      "word": "شأز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%a3%d8%b2/?book=6"
+    },
+    {
+      "word": "شبح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%a8%d8%ad/?book=6"
+    },
+    {
+      "word": "شبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "شبع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%a8%d8%b9/?book=6"
+    },
+    {
+      "word": "شثن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ab%d9%86/?book=6"
+    },
+    {
+      "word": "شجج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ac%d8%ac/?book=6"
+    },
+    {
+      "word": "شجع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ac%d8%b9/?book=6"
+    },
+    {
+      "word": "شجن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ac%d9%86/?book=6"
+    },
+    {
+      "word": "شحح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ad%d8%ad/?book=6"
+    },
+    {
+      "word": "شرا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b1%d8%a7/?book=6"
+    },
+    {
+      "word": "شرج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b1%d8%ac/?book=6"
+    },
+    {
+      "word": "شرشر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b1%d8%b4%d8%b1/?book=6"
+    },
+    {
+      "word": "شَرط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%8e%d8%b1%d8%b7/?book=6"
+    },
+    {
+      "word": "شرق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "شَرق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%8e%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "شرم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "شرى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "شصص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b5%d8%b5/?book=6"
+    },
+    {
+      "word": "شطط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b7%d8%b7/?book=6"
+    },
+    {
+      "word": "شعب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b9%d8%a8/?book=6"
+    },
+    {
+      "word": "شعر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b9%d8%b1/?book=6"
+    },
+    {
+      "word": "شعف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%b9%d9%81/?book=6"
+    },
+    {
+      "word": "شغا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ba%d8%a7/?book=6"
+    },
+    {
+      "word": "شغر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d8%ba%d8%b1/?book=6"
+    },
+    {
+      "word": "شفع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%81%d8%b9/?book=6"
+    },
+    {
+      "word": "شفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "شقص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%82%d8%b5/?book=6"
+    },
+    {
+      "word": "شقق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%82%d9%82/?book=6"
+    },
+    {
+      "word": "شكل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%83%d9%84/?book=6"
+    },
+    {
+      "word": "شلا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%84%d8%a7/?book=6"
+    },
+    {
+      "word": "شلو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%84%d9%88/?book=6"
+    },
+    {
+      "word": "شمت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%85%d8%aa/?book=6"
+    },
+    {
+      "word": "شنر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%86%d8%b1/?book=6"
+    },
+    {
+      "word": "شنق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%86%d9%82/?book=6"
+    },
+    {
+      "word": "شها",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%87%d8%a7/?book=6"
+    },
+    {
+      "word": "شهر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "شوا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%88%d8%a7/?book=6"
+    },
+    {
+      "word": "شور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "شوص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%88%d8%b5/?book=6"
+    },
+    {
+      "word": "شوك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%88%d9%83/?book=6"
+    },
+    {
+      "word": "شوه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%88%d9%87/?book=6"
+    },
+    {
+      "word": "شوى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%88%d9%89/?book=6"
+    },
+    {
+      "word": "شيح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%8a%d8%ad/?book=6"
+    },
+    {
+      "word": "شيخ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%8a%d8%ae/?book=6"
+    },
+    {
+      "word": "شيد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b4%d9%8a%d8%af/?book=6"
+    },
+    {
+      "word": "صَاف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%8e%d8%a7%d9%81/?book=6"
+    },
+    {
+      "word": "صَبأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%8e%d8%a8%d8%a3/?book=6"
+    },
+    {
+      "word": "صبب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%a8%d8%a8/?book=6"
+    },
+    {
+      "word": "صبح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%a8%d8%ad/?book=6"
+    },
+    {
+      "word": "صبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "صَبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%8e%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "صتت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%aa%d8%aa/?book=6"
+    },
+    {
+      "word": "صحف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%ad%d9%81/?book=6"
+    },
+    {
+      "word": "صدر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%af%d8%b1/?book=6"
+    },
+    {
+      "word": "صدع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%af%d8%b9/?book=6"
+    },
+    {
+      "word": "صدق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%af%d9%82/?book=6"
+    },
+    {
+      "word": "صدى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%af%d9%89/?book=6"
+    },
+    {
+      "word": "صرد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b1%d8%af/?book=6"
+    },
+    {
+      "word": "صرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "صرف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "صرى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "صعد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b9%d8%af/?book=6"
+    },
+    {
+      "word": "صعفق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b9%d9%81%d9%82/?book=6"
+    },
+    {
+      "word": "صعل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d8%b9%d9%84/?book=6"
+    },
+    {
+      "word": "صفا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%81%d8%a7/?book=6"
+    },
+    {
+      "word": "صفد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%81%d8%af/?book=6"
+    },
+    {
+      "word": "صفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "صفق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%81%d9%82/?book=6"
+    },
+    {
+      "word": "صفن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%81%d9%86/?book=6"
+    },
+    {
+      "word": "صقب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%82%d8%a8/?book=6"
+    },
+    {
+      "word": "صلا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%84%d8%a7/?book=6"
+    },
+    {
+      "word": "صلب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "صلق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%84%d9%82/?book=6"
+    },
+    {
+      "word": "صلى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%84%d9%89/?book=6"
+    },
+    {
+      "word": "صمع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%85%d8%b9/?book=6"
+    },
+    {
+      "word": "صمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "صنا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%86%d8%a7/?book=6"
+    },
+    {
+      "word": "صنبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%86%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "صهب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%87%d8%a8/?book=6"
+    },
+    {
+      "word": "صور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "صوى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%88%d9%89/?book=6"
+    },
+    {
+      "word": "صيص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b5%d9%8a%d8%b5/?book=6"
+    },
+    {
+      "word": "ضأضأ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%a3%d8%b6%d8%a3/?book=6"
+    },
+    {
+      "word": "ضأل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%a3%d9%84/?book=6"
+    },
+    {
+      "word": "ضبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "ضبط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "ضبع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%a8%d8%b9/?book=6"
+    },
+    {
+      "word": "ضحا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%ad%d8%a7/?book=6"
+    },
+    {
+      "word": "ضحح",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%ad%d8%ad/?book=6"
+    },
+    {
+      "word": "ضحى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%ad%d9%89/?book=6"
+    },
+    {
+      "word": "ضرج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%b1%d8%ac/?book=6"
+    },
+    {
+      "word": "ضَرَر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%8e%d8%b1%d9%8e%d8%b1/?book=6"
+    },
+    {
+      "word": "ضغث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d8%ba%d8%ab/?book=6"
+    },
+    {
+      "word": "ضفط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%81%d8%b7/?book=6"
+    },
+    {
+      "word": "ضفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "ضمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "ضمن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%85%d9%86/?book=6"
+    },
+    {
+      "word": "ضمير",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%85%d9%8a%d8%b1/?book=6"
+    },
+    {
+      "word": "ضنك",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%86%d9%83/?book=6"
+    },
+    {
+      "word": "ضيع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%8a%d8%b9/?book=6"
+    },
+    {
+      "word": "ضيف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b6%d9%8a%d9%81/?book=6"
+    },
+    {
+      "word": "طبب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d8%a8%d8%a8/?book=6"
+    },
+    {
+      "word": "طبع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d8%a8%d8%b9/?book=6"
+    },
+    {
+      "word": "طخا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d8%ae%d8%a7/?book=6"
+    },
+    {
+      "word": "طربل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d8%b1%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "طرق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "طفا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%81%d8%a7/?book=6"
+    },
+    {
+      "word": "طفف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "طِفْل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%90%d9%81%d9%92%d9%84/?book=6"
+    },
+    {
+      "word": "طلع",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%84%d8%b9/?book=6"
+    },
+    {
+      "word": "طلل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "طلم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%84%d9%85/?book=6"
+    },
+    {
+      "word": "طها",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%87%d8%a7/?book=6"
+    },
+    {
+      "word": "طوف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%88%d9%81/?book=6"
+    },
+    {
+      "word": "طيب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b7%d9%8a%d8%a8/?book=6"
+    },
+    {
+      "word": "ظرب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b8%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "ظعن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b8%d8%b9%d9%86/?book=6"
+    },
+    {
+      "word": "ظنن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b8%d9%86%d9%86/?book=6"
+    },
+    {
+      "word": "ظهر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b8%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "عبس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%a8%d8%b3/?book=6"
+    },
+    {
+      "word": "عبقر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%a8%d9%82%d8%b1/?book=6"
+    },
+    {
+      "word": "عتر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%aa%d8%b1/?book=6"
+    },
+    {
+      "word": "عجج",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%ac%d8%ac/?book=6"
+    },
+    {
+      "word": "عجر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%ac%d8%b1/?book=6"
+    },
+    {
+      "word": "عجم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%ac%d9%85/?book=6"
+    },
+    {
+      "word": "عدد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "عدل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%af%d9%84/?book=6"
+    },
+    {
+      "word": "عذب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b0%d8%a8/?book=6"
+    },
+    {
+      "word": "عذر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b0%d8%b1/?book=6"
+    },
+    {
+      "word": "عذل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b0%d9%84/?book=6"
+    },
+    {
+      "word": "عرا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%a7/?book=6"
+    },
+    {
+      "word": "عرب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "عربا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%a8%d8%a7/?book=6"
+    },
+    {
+      "word": "عرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "عرس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%b3/?book=6"
+    },
+    {
+      "word": "عرش",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%b4/?book=6"
+    },
+    {
+      "word": "عرض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d8%b6/?book=6"
+    },
+    {
+      "word": "عرق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "عرم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "عزّر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b2%d9%91%d8%b1-2/?book=6"
+    },
+    {
+      "word": "عزز",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b2%d8%b2/?book=6"
+    },
+    {
+      "word": "عزل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b2%d9%84/?book=6"
+    },
+    {
+      "word": "عزى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b2%d9%89/?book=6"
+    },
+    {
+      "word": "عسب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b3%d8%a8/?book=6"
+    },
+    {
+      "word": "عسبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b3%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "عسف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b3%d9%81/?book=6"
+    },
+    {
+      "word": "عشا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b4%d8%a7/?book=6"
+    },
+    {
+      "word": "عشر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b4%d8%b1/?book=6"
+    },
+    {
+      "word": "عشنق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b4%d9%86%d9%82/?book=6"
+    },
+    {
+      "word": "عصا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b5%d8%a7/?book=6"
+    },
+    {
+      "word": "عصر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b5%d8%b1/?book=6"
+    },
+    {
+      "word": "عصم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b5%d9%85/?book=6"
+    },
+    {
+      "word": "عضل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b6%d9%84/?book=6"
+    },
+    {
+      "word": "عضه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b6%d9%87/?book=6"
+    },
+    {
+      "word": "عضى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b6%d9%89/?book=6"
+    },
+    {
+      "word": "عطل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d8%b7%d9%84/?book=6"
+    },
+    {
+      "word": "عفا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%81%d8%a7/?book=6"
+    },
+    {
+      "word": "عفر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "عفص",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%81%d8%b5/?book=6"
+    },
+    {
+      "word": "عَفْو",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%8e%d9%81%d9%92%d9%88/?book=6"
+    },
+    {
+      "word": "عقب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%82%d8%a8/?book=6"
+    },
+    {
+      "word": "عقر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%82%d8%b1/?book=6"
+    },
+    {
+      "word": "عُقُق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%8f%d9%82%d9%8f%d9%82/?book=6"
+    },
+    {
+      "word": "عقل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%82%d9%84/?book=6"
+    },
+    {
+      "word": "عقم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%82%d9%85/?book=6"
+    },
+    {
+      "word": "عقى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%82%d9%89/?book=6"
+    },
+    {
+      "word": "عَقَي",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%8e%d9%82%d9%8e%d9%8a/?book=6"
+    },
+    {
+      "word": "علب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "علق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%84%d9%82/?book=6"
+    },
+    {
+      "word": "عمد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%85%d8%af/?book=6"
+    },
+    {
+      "word": "عمر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%85%d8%b1/?book=6"
+    },
+    {
+      "word": "عمم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "عمى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%85%d9%89/?book=6"
+    },
+    {
+      "word": "عنا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%86%d8%a7/?book=6"
+    },
+    {
+      "word": "عنس",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%86%d8%b3/?book=6"
+    },
+    {
+      "word": "عنن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%86%d9%86/?book=6"
+    },
+    {
+      "word": "عهد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%87%d8%af/?book=6"
+    },
+    {
+      "word": "عوه",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%88%d9%87/?book=6"
+    },
+    {
+      "word": "عيف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%8a%d9%81/?book=6"
+    },
+    {
+      "word": "عين",
+      "href": "http://arabiclexicon.hawramani.com/%d8%b9%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "غبر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%a8%d8%b1/?book=6"
+    },
+    {
+      "word": "غبط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "غثث",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%ab%d8%ab/?book=6"
+    },
+    {
+      "word": "غدر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%af%d8%b1/?book=6"
+    },
+    {
+      "word": "غدف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%af%d9%81/?book=6"
+    },
+    {
+      "word": "غذا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b0%d8%a7/?book=6"
+    },
+    {
+      "word": "غذم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b0%d9%85/?book=6"
+    },
+    {
+      "word": "غرب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "غرر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "غزا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b2%d8%a7/?book=6"
+    },
+    {
+      "word": "غسق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b3%d9%82/?book=6"
+    },
+    {
+      "word": "غضض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b6%d8%b6/?book=6"
+    },
+    {
+      "word": "غضف",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d8%b6%d9%81/?book=6"
+    },
+    {
+      "word": "غفر",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "غفل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%81%d9%84/?book=6"
+    },
+    {
+      "word": "غلت",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%84%d8%aa/?book=6"
+    },
+    {
+      "word": "غلق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%84%d9%82/?book=6"
+    },
+    {
+      "word": "غمد",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%85%d8%af/?book=6"
+    },
+    {
+      "word": "غَمْرٌ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%8e%d9%85%d9%92%d8%b1%d9%8c/?book=6"
+    },
+    {
+      "word": "غمق",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%85%d9%82/?book=6"
+    },
+    {
+      "word": "غنا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%86%d8%a7/?book=6"
+    },
+    {
+      "word": "غنظ",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%86%d8%b8/?book=6"
+    },
+    {
+      "word": "غنم",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%86%d9%85/?book=6"
+    },
+    {
+      "word": "غنن",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%86%d9%86/?book=6"
+    },
+    {
+      "word": "غهب",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%87%d8%a8/?book=6"
+    },
+    {
+      "word": "غور",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "غوط",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%88%d8%b7/?book=6"
+    },
+    {
+      "word": "َغَوَّط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%8e%d8%ba%d9%8e%d9%88%d9%91%d9%8e%d8%b7/?book=6"
+    },
+    {
+      "word": "غول",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%88%d9%84/?book=6"
+    },
+    {
+      "word": "غوى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%88%d9%89/?book=6"
+    },
+    {
+      "word": "غيا",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%8a%d8%a7/?book=6"
+    },
+    {
+      "word": "غيض",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%8a%d8%b6/?book=6"
+    },
+    {
+      "word": "غيل",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "غين",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "غيى",
+      "href": "http://arabiclexicon.hawramani.com/%d8%ba%d9%8a%d9%89/?book=6"
+    },
+    {
+      "word": "فتا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%aa%d8%a7/?book=6"
+    },
+    {
+      "word": "فتح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%aa%d8%ad/?book=6"
+    },
+    {
+      "word": "فتخ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%aa%d8%ae/?book=6"
+    },
+    {
+      "word": "فتك",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%aa%d9%83/?book=6"
+    },
+    {
+      "word": "فحص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%ad%d8%b5/?book=6"
+    },
+    {
+      "word": "فَحل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%8e%d8%ad%d9%84/?book=6"
+    },
+    {
+      "word": "فدد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "فدم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%af%d9%85/?book=6"
+    },
+    {
+      "word": "فرأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%a3/?book=6"
+    },
+    {
+      "word": "فرا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%a7/?book=6"
+    },
+    {
+      "word": "فرج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%ac/?book=6"
+    },
+    {
+      "word": "فرر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "فرس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b3/?book=6"
+    },
+    {
+      "word": "فَرسَخ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%8e%d8%b1%d8%b3%d9%8e%d8%ae/?book=6"
+    },
+    {
+      "word": "فرشح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b4%d8%ad/?book=6"
+    },
+    {
+      "word": "فرص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b5/?book=6"
+    },
+    {
+      "word": "فرط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b7/?book=6"
+    },
+    {
+      "word": "فرع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b9/?book=6"
+    },
+    {
+      "word": "فرعل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d8%b9%d9%84/?book=6"
+    },
+    {
+      "word": "فرق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d9%82/?book=6"
+    },
+    {
+      "word": "فرك",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d9%83/?book=6"
+    },
+    {
+      "word": "فرى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "فشى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b4%d9%89/?book=6"
+    },
+    {
+      "word": "فضخ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b6%d8%ae/?book=6"
+    },
+    {
+      "word": "فضَض",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b6%d9%8e%d8%b6/?book=6"
+    },
+    {
+      "word": "فطر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d8%b7%d8%b1/?book=6"
+    },
+    {
+      "word": "فقح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%82%d8%ad/?book=6"
+    },
+    {
+      "word": "فقر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%82%d8%b1/?book=6"
+    },
+    {
+      "word": "فكن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%83%d9%86/?book=6"
+    },
+    {
+      "word": "فكه",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%83%d9%87/?book=6"
+    },
+    {
+      "word": "فلج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%84%d8%ac/?book=6"
+    },
+    {
+      "word": "فلح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%84%d8%ad/?book=6"
+    },
+    {
+      "word": "فلذ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%84%d8%b0/?book=6"
+    },
+    {
+      "word": "فلك",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%84%d9%83/?book=6"
+    },
+    {
+      "word": "فهر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "فهق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%87%d9%82/?book=6"
+    },
+    {
+      "word": "فهه",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%87%d9%87/?book=6"
+    },
+    {
+      "word": "فوت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%88%d8%aa/?book=6"
+    },
+    {
+      "word": "فوخ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%88%d8%ae/?book=6"
+    },
+    {
+      "word": "فَوق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%8e%d9%88%d9%82/?book=6"
+    },
+    {
+      "word": "فيص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%81%d9%8a%d8%b5/?book=6"
+    },
+    {
+      "word": "قبص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%a8%d8%b5/?book=6"
+    },
+    {
+      "word": "قبط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "قبل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "قتب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%aa%d8%a8/?book=6"
+    },
+    {
+      "word": "قتت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%aa%d8%aa/?book=6"
+    },
+    {
+      "word": "قتن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%aa%d9%86/?book=6"
+    },
+    {
+      "word": "قحز",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%ad%d8%b2/?book=6"
+    },
+    {
+      "word": "قحم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%ad%d9%85/?book=6"
+    },
+    {
+      "word": "قدر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%af%d8%b1/?book=6"
+    },
+    {
+      "word": "قدع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%af%d8%b9/?book=6"
+    },
+    {
+      "word": "قدم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%af%d9%85/?book=6"
+    },
+    {
+      "word": "قذف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b0%d9%81/?book=6"
+    },
+    {
+      "word": "قذى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b0%d9%89/?book=6"
+    },
+    {
+      "word": "قرء",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%a1-2/?book=6"
+    },
+    {
+      "word": "قرح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%ad/?book=6"
+    },
+    {
+      "word": "قرد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%af/?book=6"
+    },
+    {
+      "word": "قرر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "قرس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%b3/?book=6"
+    },
+    {
+      "word": "قرض",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%b6/?book=6"
+    },
+    {
+      "word": "قرظ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d8%b8/?book=6"
+    },
+    {
+      "word": "قرف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "قرفص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d9%81%d8%b5/?book=6"
+    },
+    {
+      "word": "قرم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "قرن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b1%d9%86/?book=6"
+    },
+    {
+      "word": "قزع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b2%d8%b9/?book=6"
+    },
+    {
+      "word": "قزل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b2%d9%84/?book=6"
+    },
+    {
+      "word": "قسا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b3%d8%a7/?book=6"
+    },
+    {
+      "word": "قسى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b3%d9%89/?book=6"
+    },
+    {
+      "word": "قشا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b4%d8%a7/?book=6"
+    },
+    {
+      "word": "قشر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b4%d8%b1/?book=6"
+    },
+    {
+      "word": "قشع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b4%d8%b9/?book=6"
+    },
+    {
+      "word": "قصا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b5%d8%a7/?book=6"
+    },
+    {
+      "word": "قصر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b5%d8%b1/?book=6"
+    },
+    {
+      "word": "قصَص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b5%d9%8e%d8%b5/?book=6"
+    },
+    {
+      "word": "قصع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b5%d8%b9/?book=6"
+    },
+    {
+      "word": "قصم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b5%d9%85/?book=6"
+    },
+    {
+      "word": "قصى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b5%d9%89/?book=6"
+    },
+    {
+      "word": "قضأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b6%d8%a3/?book=6"
+    },
+    {
+      "word": "قضب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b6%d8%a8/?book=6"
+    },
+    {
+      "word": "قضض",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b6%d8%b6/?book=6"
+    },
+    {
+      "word": "قطرب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b7%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "قطع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b7%d8%b9/?book=6"
+    },
+    {
+      "word": "قعد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b9%d8%af/?book=6"
+    },
+    {
+      "word": "قعص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b9%d8%b5/?book=6"
+    },
+    {
+      "word": "قعط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b9%d8%b7/?book=6"
+    },
+    {
+      "word": "قعى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d8%b9%d9%89/?book=6"
+    },
+    {
+      "word": "قفا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%81%d8%a7/?book=6"
+    },
+    {
+      "word": "قفر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "قفز",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%81%d8%b2/?book=6"
+    },
+    {
+      "word": "قفع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%81%d8%b9/?book=6"
+    },
+    {
+      "word": "قفف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%81%d9%81/?book=6"
+    },
+    {
+      "word": "قفن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%81%d9%86/?book=6"
+    },
+    {
+      "word": "قلا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%84%d8%a7/?book=6"
+    },
+    {
+      "word": "قلب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "قلح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%84%d8%ad/?book=6"
+    },
+    {
+      "word": "قلل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "قمع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%85%d8%b9/?book=6"
+    },
+    {
+      "word": "قمن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%85%d9%86/?book=6"
+    },
+    {
+      "word": "قنت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%86%d8%aa/?book=6"
+    },
+    {
+      "word": "قنح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%86%d8%ad/?book=6"
+    },
+    {
+      "word": "قنزع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%86%d8%b2%d8%b9/?book=6"
+    },
+    {
+      "word": "قنطر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%86%d8%b7%d8%b1/?book=6"
+    },
+    {
+      "word": "قوا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%88%d8%a7/?book=6"
+    },
+    {
+      "word": "قوع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%88%d8%b9/?book=6"
+    },
+    {
+      "word": "قوم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%88%d9%85/?book=6"
+    },
+    {
+      "word": "قيد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%8a%d8%af/?book=6"
+    },
+    {
+      "word": "قير",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%8a%d8%b1/?book=6"
+    },
+    {
+      "word": "قيظ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%8a%d8%b8/?book=6"
+    },
+    {
+      "word": "قيل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "قين",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%8a%d9%86/?book=6"
+    },
+    {
+      "word": "قيه",
+      "href": "http://arabiclexicon.hawramani.com/%d9%82%d9%8a%d9%87/?book=6"
+    },
+    {
+      "word": "كبل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "كثب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%ab%d8%a8/?book=6"
+    },
+    {
+      "word": "كثر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%ab%d8%b1/?book=6"
+    },
+    {
+      "word": "كدح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%af%d8%ad/?book=6"
+    },
+    {
+      "word": "كدن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "كذب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b0%d8%a8/?book=6"
+    },
+    {
+      "word": "ّكر ب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%91%d9%83%d8%b1-%d8%a8/?book=6"
+    },
+    {
+      "word": "كرب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "كرر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "كرس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d8%b3/?book=6"
+    },
+    {
+      "word": "كرسف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d8%b3%d9%81/?book=6"
+    },
+    {
+      "word": "كرش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d8%b4/?book=6"
+    },
+    {
+      "word": "كرع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d8%b9/?book=6"
+    },
+    {
+      "word": "كرم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "كرى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "كظم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b8%d9%85/?book=6"
+    },
+    {
+      "word": "كعم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d8%b9%d9%85/?book=6"
+    },
+    {
+      "word": "كفأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%81%d8%a3/?book=6"
+    },
+    {
+      "word": "كفر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "كفل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%81%d9%84/?book=6"
+    },
+    {
+      "word": "كلأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%84%d8%a3/?book=6"
+    },
+    {
+      "word": "كلب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%84%d8%a8/?book=6"
+    },
+    {
+      "word": "كلف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%84%d9%81/?book=6"
+    },
+    {
+      "word": "كن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%86/?book=6"
+    },
+    {
+      "word": "كنر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%86%d8%b1/?book=6"
+    },
+    {
+      "word": "كنف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%86%d9%81/?book=6"
+    },
+    {
+      "word": "كهبل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%87%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "كهر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%87%d8%b1/?book=6"
+    },
+    {
+      "word": "كهل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%87%d9%84/?book=6"
+    },
+    {
+      "word": "كوس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%88%d8%b3/?book=6"
+    },
+    {
+      "word": "كيل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%83%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "لبب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%a8%d8%a8/?book=6"
+    },
+    {
+      "word": "لبد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%a8%d8%af/?book=6"
+    },
+    {
+      "word": "لبط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%a8%d8%b7/?book=6"
+    },
+    {
+      "word": "لبق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%a8%d9%82/?book=6"
+    },
+    {
+      "word": "لبن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%a8%d9%86/?book=6"
+    },
+    {
+      "word": "لبّى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%a8%d9%91%d9%89/?book=6"
+    },
+    {
+      "word": "لجج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%ac%d8%ac/?book=6"
+    },
+    {
+      "word": "لحى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%ad%d9%89/?book=6"
+    },
+    {
+      "word": "لخب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%ae%d8%a8/?book=6"
+    },
+    {
+      "word": "لخخ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%ae%d8%ae/?book=6"
+    },
+    {
+      "word": "لدد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "لدم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%af%d9%85/?book=6"
+    },
+    {
+      "word": "لطح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%b7%d8%ad/?book=6"
+    },
+    {
+      "word": "لظظ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%b8%d8%b8/?book=6"
+    },
+    {
+      "word": "لعب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%b9%d8%a8/?book=6"
+    },
+    {
+      "word": "لعثم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%b9%d8%ab%d9%85/?book=6"
+    },
+    {
+      "word": "لعس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d8%b9%d8%b3/?book=6"
+    },
+    {
+      "word": "لَغَا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%8e%d8%ba%d9%8e%d8%a7/?book=6"
+    },
+    {
+      "word": "لفت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%81%d8%aa/?book=6"
+    },
+    {
+      "word": "لقح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%82%d8%ad/?book=6"
+    },
+    {
+      "word": "لقع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%82%d8%b9/?book=6"
+    },
+    {
+      "word": "لقى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%82%d9%89/?book=6"
+    },
+    {
+      "word": "لكع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%83%d8%b9/?book=6"
+    },
+    {
+      "word": "لمظ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%85%d8%b8/?book=6"
+    },
+    {
+      "word": "لمع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%85%d8%b9/?book=6"
+    },
+    {
+      "word": "لمم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "لَهَا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%8e%d9%87%d9%8e%d8%a7/?book=6"
+    },
+    {
+      "word": "لهث",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%87%d8%ab/?book=6"
+    },
+    {
+      "word": "لهد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%87%d8%af/?book=6"
+    },
+    {
+      "word": "لوب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%88%d8%a8/?book=6"
+    },
+    {
+      "word": "لوط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%88%d8%b7/?book=6"
+    },
+    {
+      "word": "لوى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%88%d9%89/?book=6"
+    },
+    {
+      "word": "ليت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%8a%d8%aa/?book=6"
+    },
+    {
+      "word": "ليط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%84%d9%8a%d8%b7/?book=6"
+    },
+    {
+      "word": "مأن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%a3%d9%86/?book=6"
+    },
+    {
+      "word": "ما",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%a7/?book=6"
+    },
+    {
+      "word": "مثل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%ab%d9%84/?book=6"
+    },
+    {
+      "word": "مثن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%ab%d9%86/?book=6"
+    },
+    {
+      "word": "مجج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%ac%d8%ac/?book=6"
+    },
+    {
+      "word": "مجر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%ac%d8%b1/?book=6"
+    },
+    {
+      "word": "مَحل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%8e%d8%ad%d9%84-2/?book=6"
+    },
+    {
+      "word": "مذقر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b0%d9%82%d8%b1/?book=6"
+    },
+    {
+      "word": "مذى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b0%d9%89/?book=6"
+    },
+    {
+      "word": "مرا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b1%d8%a7/?book=6"
+    },
+    {
+      "word": "مرر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b1%d8%b1/?book=6"
+    },
+    {
+      "word": "مرط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b1%d8%b7/?book=6"
+    },
+    {
+      "word": "مزر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b2%d8%b1/?book=6"
+    },
+    {
+      "word": "مزع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b2%d8%b9/?book=6"
+    },
+    {
+      "word": "مسح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b3%d8%ad/?book=6"
+    },
+    {
+      "word": "مشق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b4%d9%82/?book=6"
+    },
+    {
+      "word": "مصص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b5%d8%b5/?book=6"
+    },
+    {
+      "word": "مصع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b5%d8%b9/?book=6"
+    },
+    {
+      "word": "مطط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b7%d8%b7/?book=6"
+    },
+    {
+      "word": "مطى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b7%d9%89/?book=6"
+    },
+    {
+      "word": "مظظ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b8%d8%b8/?book=6"
+    },
+    {
+      "word": "معى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%b9%d9%89/?book=6"
+    },
+    {
+      "word": "مغط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d8%ba%d8%b7/?book=6"
+    },
+    {
+      "word": "مقل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%82%d9%84/?book=6"
+    },
+    {
+      "word": "مكك",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%83%d9%83/?book=6"
+    },
+    {
+      "word": "ملج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%84%d8%ac/?book=6"
+    },
+    {
+      "word": "ملح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%84%d8%ad/?book=6"
+    },
+    {
+      "word": "ملص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%84%d8%b5/?book=6"
+    },
+    {
+      "word": "ملك",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%84%d9%83/?book=6"
+    },
+    {
+      "word": "منح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%86%d8%ad/?book=6"
+    },
+    {
+      "word": "منن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%86%d9%86/?book=6"
+    },
+    {
+      "word": "منى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%86%d9%89/?book=6"
+    },
+    {
+      "word": "مهق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%87%d9%82/?book=6"
+    },
+    {
+      "word": "مهل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%87%d9%84/?book=6"
+    },
+    {
+      "word": "موت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%88%d8%aa/?book=6"
+    },
+    {
+      "word": "ميح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%8a%d8%ad/?book=6"
+    },
+    {
+      "word": "ميد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%8a%d8%af/?book=6"
+    },
+    {
+      "word": "ميع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%85%d9%8a%d8%b9/?book=6"
+    },
+    {
+      "word": "نأنأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%a3%d9%86%d8%a3/?book=6"
+    },
+    {
+      "word": "نبل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "نثث",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ab%d8%ab/?book=6"
+    },
+    {
+      "word": "نثر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ab%d8%b1/?book=6"
+    },
+    {
+      "word": "نجا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ac%d8%a7/?book=6"
+    },
+    {
+      "word": "نجد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ac%d8%af/?book=6"
+    },
+    {
+      "word": "نجش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ac%d8%b4/?book=6"
+    },
+    {
+      "word": "نحص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ad%d8%b5/?book=6"
+    },
+    {
+      "word": "نخر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ae%d8%b1/?book=6"
+    },
+    {
+      "word": "نخع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ae%d8%b9/?book=6"
+    },
+    {
+      "word": "ندح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%af%d8%ad/?book=6"
+    },
+    {
+      "word": "ندد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%af%d8%af/?book=6"
+    },
+    {
+      "word": "ندى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%af%d9%89/?book=6"
+    },
+    {
+      "word": "نزه",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b2%d9%87/?book=6"
+    },
+    {
+      "word": "نسأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b3%d8%a3/?book=6"
+    },
+    {
+      "word": "نسى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b3%d9%89/?book=6"
+    },
+    {
+      "word": "نشج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b4%d8%ac/?book=6"
+    },
+    {
+      "word": "نَشد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%8e%d8%b4%d8%af/?book=6"
+    },
+    {
+      "word": "نشش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b4%d8%b4/?book=6"
+    },
+    {
+      "word": "نشع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b4%d8%b9/?book=6"
+    },
+    {
+      "word": "نشغ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b4%d8%ba/?book=6"
+    },
+    {
+      "word": "نشم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b4%d9%85/?book=6"
+    },
+    {
+      "word": "نصا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b5%d8%a7/?book=6"
+    },
+    {
+      "word": "نصص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b5%d8%b5/?book=6"
+    },
+    {
+      "word": "نصف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b5%d9%81/?book=6"
+    },
+    {
+      "word": "نصنص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b5%d9%86%d8%b5/?book=6"
+    },
+    {
+      "word": "نصى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b5%d9%89/?book=6"
+    },
+    {
+      "word": "نضا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b6%d8%a7/?book=6"
+    },
+    {
+      "word": "نضح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b6%d8%ad/?book=6"
+    },
+    {
+      "word": "نطس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b7%d8%b3/?book=6"
+    },
+    {
+      "word": "نظر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b8%d8%b1/?book=6"
+    },
+    {
+      "word": "نعا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b9%d8%a7/?book=6"
+    },
+    {
+      "word": "نعف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b9%d9%81/?book=6"
+    },
+    {
+      "word": "نعم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%b9%d9%85/?book=6"
+    },
+    {
+      "word": "نغر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d8%ba%d8%b1/?book=6"
+    },
+    {
+      "word": "نفث",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%81%d8%ab/?book=6"
+    },
+    {
+      "word": "نفذ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%81%d8%b0/?book=6"
+    },
+    {
+      "word": "نفر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%81%d8%b1/?book=6"
+    },
+    {
+      "word": "نفق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%81%d9%82/?book=6"
+    },
+    {
+      "word": "نفه",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%81%d9%87/?book=6"
+    },
+    {
+      "word": "نقب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d8%a8/?book=6"
+    },
+    {
+      "word": "نقز",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d8%b2/?book=6"
+    },
+    {
+      "word": "نقش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d8%b4/?book=6"
+    },
+    {
+      "word": "نقص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d8%b5/?book=6"
+    },
+    {
+      "word": "نقع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d8%b9/?book=6"
+    },
+    {
+      "word": "نقل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d9%84/?book=6"
+    },
+    {
+      "word": "نقى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%82%d9%89/?book=6"
+    },
+    {
+      "word": "نكس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%83%d8%b3/?book=6"
+    },
+    {
+      "word": "نكل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%83%d9%84/?book=6"
+    },
+    {
+      "word": "نمس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%85%d8%b3/?book=6"
+    },
+    {
+      "word": "نمط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%85%d8%b7/?book=6"
+    },
+    {
+      "word": "نمل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%85%d9%84/?book=6"
+    },
+    {
+      "word": "نهج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%87%d8%ac/?book=6"
+    },
+    {
+      "word": "نهس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%87%d8%b3/?book=6"
+    },
+    {
+      "word": "نوء",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%88%d8%a1/?book=6"
+    },
+    {
+      "word": "نوأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%88%d8%a3/?book=6"
+    },
+    {
+      "word": "نَوَت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%8e%d9%88%d9%8e%d8%aa/?book=6"
+    },
+    {
+      "word": "نور",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%88%d8%b1/?book=6"
+    },
+    {
+      "word": "نوم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%88%d9%85/?book=6"
+    },
+    {
+      "word": "نيل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%86%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "هام",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%a7%d9%85/?book=6"
+    },
+    {
+      "word": "هبا",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%a8%d8%a7/?book=6"
+    },
+    {
+      "word": "هبت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%a8%d8%aa/?book=6"
+    },
+    {
+      "word": "هُبل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8f%d8%a8%d9%84-2/?book=6"
+    },
+    {
+      "word": "هُبل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8f%d8%a8%d9%84/?book=6"
+    },
+    {
+      "word": "هجر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%ac%d8%b1/?book=6"
+    },
+    {
+      "word": "هجم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%ac%d9%85/?book=6"
+    },
+    {
+      "word": "هدف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%af%d9%81/?book=6"
+    },
+    {
+      "word": "هدن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "هدى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%af%d9%89/?book=6"
+    },
+    {
+      "word": "هذرم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%b0%d8%b1%d9%85/?book=6"
+    },
+    {
+      "word": "هرب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%b1%d8%a8/?book=6"
+    },
+    {
+      "word": "هرج",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%b1%d8%ac/?book=6"
+    },
+    {
+      "word": "هرف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%b1%d9%81/?book=6"
+    },
+    {
+      "word": "هشش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d8%b4%d8%b4/?book=6"
+    },
+    {
+      "word": "هلع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%84%d8%b9/?book=6"
+    },
+    {
+      "word": "هلل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%84%d9%84/?book=6"
+    },
+    {
+      "word": "هما",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%85%d8%a7/?book=6"
+    },
+    {
+      "word": "همز",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%85%d8%b2/?book=6"
+    },
+    {
+      "word": "همم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%85%d9%85/?book=6"
+    },
+    {
+      "word": "همى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%85%d9%89/?book=6"
+    },
+    {
+      "word": "هَنأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8e%d9%86%d8%a3/?book=6"
+    },
+    {
+      "word": "هنم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%86%d9%85/?book=6"
+    },
+    {
+      "word": "هود",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%88%d8%af/?book=6"
+    },
+    {
+      "word": "هوش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%88%d8%b4/?book=6"
+    },
+    {
+      "word": "هيب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8a%d8%a8/?book=6"
+    },
+    {
+      "word": "هيد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8a%d8%af/?book=6"
+    },
+    {
+      "word": "هيض",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8a%d8%b6/?book=6"
+    },
+    {
+      "word": "هيع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8a%d8%b9/?book=6"
+    },
+    {
+      "word": "هيل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%87%d9%8a%d9%84/?book=6"
+    },
+    {
+      "word": "وأد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%a3%d8%af/?book=6"
+    },
+    {
+      "word": "وَإِن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%8e%d8%a5%d9%90%d9%86/?book=6"
+    },
+    {
+      "word": "وبش",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%a8%d8%b4/?book=6"
+    },
+    {
+      "word": "وبص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%a8%d8%b5/?book=6"
+    },
+    {
+      "word": "وتر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%aa%d8%b1/?book=6"
+    },
+    {
+      "word": "وثلة",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ab%d9%84%d8%a9/?book=6"
+    },
+    {
+      "word": "وجأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ac%d8%a3/?book=6"
+    },
+    {
+      "word": "وجب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ac%d8%a8/?book=6"
+    },
+    {
+      "word": "وَجب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%8e%d8%ac%d8%a8/?book=6"
+    },
+    {
+      "word": "وجس",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ac%d8%b3/?book=6"
+    },
+    {
+      "word": "وجم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ac%d9%85/?book=6"
+    },
+    {
+      "word": "وحر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ad%d8%b1/?book=6"
+    },
+    {
+      "word": "ودن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%af%d9%86/?book=6"
+    },
+    {
+      "word": "ودى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%af%d9%89/?book=6"
+    },
+    {
+      "word": "وذأ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b0%d8%a3/?book=6"
+    },
+    {
+      "word": "وذر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b0%d8%b1/?book=6"
+    },
+    {
+      "word": "وذف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b0%d9%81/?book=6"
+    },
+    {
+      "word": "وذم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b0%d9%85/?book=6"
+    },
+    {
+      "word": "ورد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b1%d8%af/?book=6"
+    },
+    {
+      "word": "ورط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b1%d8%b7/?book=6"
+    },
+    {
+      "word": "ورع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b1%d8%b9/?book=6"
+    },
+    {
+      "word": "ورى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b1%d9%89/?book=6"
+    },
+    {
+      "word": "وزع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b2%d8%b9/?book=6"
+    },
+    {
+      "word": "وزغ",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b2%d8%ba/?book=6"
+    },
+    {
+      "word": "وسم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b3%d9%85/?book=6"
+    },
+    {
+      "word": "وشق",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b4%d9%82/?book=6"
+    },
+    {
+      "word": "وشى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b4%d9%89/?book=6"
+    },
+    {
+      "word": "وصع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b5%d8%b9/?book=6"
+    },
+    {
+      "word": "وضح",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b6%d8%ad/?book=6"
+    },
+    {
+      "word": "وضع",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b6%d8%b9/?book=6"
+    },
+    {
+      "word": "وطد",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b7%d8%af/?book=6"
+    },
+    {
+      "word": "وطط",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b7%d8%b7/?book=6"
+    },
+    {
+      "word": "وعب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b9%d8%a8/?book=6"
+    },
+    {
+      "word": "وعث",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b9%d8%ab/?book=6"
+    },
+    {
+      "word": "وعل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%b9%d9%84/?book=6"
+    },
+    {
+      "word": "وغل",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d8%ba%d9%84/?book=6"
+    },
+    {
+      "word": "وفض",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%81%d8%b6/?book=6"
+    },
+    {
+      "word": "وقب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%82%d8%a8/?book=6"
+    },
+    {
+      "word": "وقص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%82%d8%b5/?book=6"
+    },
+    {
+      "word": "وقى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%82%d9%89/?book=6"
+    },
+    {
+      "word": "وكت",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%83%d8%aa/?book=6"
+    },
+    {
+      "word": "وكف",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%83%d9%81/?book=6"
+    },
+    {
+      "word": "وَكن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%8e%d9%83%d9%86/?book=6"
+    },
+    {
+      "word": "وكى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%83%d9%89/?book=6"
+    },
+    {
+      "word": "وله",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%84%d9%87/?book=6"
+    },
+    {
+      "word": "ولى",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%84%d9%89/?book=6"
+    },
+    {
+      "word": "وهب",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%87%d8%a8/?book=6"
+    },
+    {
+      "word": "وهص",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%87%d8%b5/?book=6"
+    },
+    {
+      "word": "وهم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%88%d9%87%d9%85/?book=6"
+    },
+    {
+      "word": "يسر",
+      "href": "http://arabiclexicon.hawramani.com/%d9%8a%d8%b3%d8%b1/?book=6"
+    },
+    {
+      "word": "يمن",
+      "href": "http://arabiclexicon.hawramani.com/%d9%8a%d9%85%d9%86/?book=6"
+    },
+    {
+      "word": "يهم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%8a%d9%87%d9%85/?book=6"
+    },
+    {
+      "word": "يوم",
+      "href": "http://arabiclexicon.hawramani.com/%d9%8a%d9%88%d9%85/?book=6"
+    }
+  ]
+}
